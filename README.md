@@ -7,7 +7,7 @@ An application for download wallpapers from `unsplash`, `pexels`, `bing` for win
 🌀 Keep in mind this repository is work in progress and will add some extra features for pexels, bing, spotlight in the next. 🚀
 
 ## Screenshots
-![](Images/shot1.jpg)
+![Screenshot1](Images/shot1.png)
 
 ## Status
 - Work in progress
