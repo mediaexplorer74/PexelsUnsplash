@@ -9,6 +9,12 @@ An application for download wallpapers from `unsplash`, `pexels`, `bing` for win
 ## Screenshots
 ![](Images/shot1.jpg)
 
+## Status
+- Work in progress
+- OS Build: 19041
+- Min. OS Build: 15063
+- x86 -- ready, ARM -- some big problems (XAML/NavigationView fails?)
+
 ## Building
 Make sure you use the latest [Visual Studio](https://visualstudio.microsoft.com/vs/community/) and have installed the 19041 and 15063 [UWP SDKs](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/) to build project.
 
